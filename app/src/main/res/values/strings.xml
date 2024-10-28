@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BuStop</string>
+
+    <string-array name="busnumber">
+
+        <item>12</item>
+        <item>900</item>
+        <item>700</item>
+        <item>5</item>
+        <item>308</item>
+        <item>3</item>
+    </string-array>
+</resources>
